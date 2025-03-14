@@ -1,6 +1,3 @@
-Here's an updated and clean GitHub repository README without referencing `requirements.txt`:
-
----
 
 # 🚀 RAG Crew AI - Agentic AI with Retrieval-Augmented Generation (RAG)
 
@@ -61,7 +58,6 @@ print(response)
 **Varun Kumar Karnati**  
 Generative AI Engineer specializing in agentic AI, RAG integration, NLP, and AI workflow automation.
 
----
 
 ### 📬 Contact
 - **Email:** [varunkarnati10@gmail.com](mailto:varunkarnati10@gmail.com)
